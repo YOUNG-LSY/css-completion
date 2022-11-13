@@ -3,6 +3,11 @@
   "displayName": "css-completion",
   "description": "css completion to vue",
   "version": "0.0.1",
+  "publisher": "liusiyang",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUNG-LSY/css-completion.git"
+  },
   "engines": {
     "vscode": "^1.73.0"
   },
